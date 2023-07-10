@@ -44,4 +44,4 @@ client.on
 
 }
 );
-client.login('ODY0MzQ2MjE2ODA3OTIzNzYy.YO0HJA.5sxO9shHyp6tAkD7MrJ7m2xGzPk');
+client.login('');
